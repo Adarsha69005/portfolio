@@ -14,9 +14,9 @@ function LeftPlane() {
             </div>
         <div className="w3-container">
           <p><i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Web / Software Developer</p>
-          <p><i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Kathmandu, Nepal</p>
+          <p><i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Sydney,Australia</p>
           <p><i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>adarsha69005@gmail.com</p>
-          <p><i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+9779843696671</p>
+          <p><i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+610416195027</p>
           <hr />
 
           <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -27,6 +27,7 @@ function LeftPlane() {
               <li>ReactJS</li>
               <li>Express</li>
           </ul>
+          <h6 className="left-plane">dotNet</h6>
           <h6 className="left-plane">Python</h6>
           <hr className="left-plane" />
           <h5 className="left-plane">Databases</h5>

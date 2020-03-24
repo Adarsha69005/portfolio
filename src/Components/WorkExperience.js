@@ -6,7 +6,7 @@ function WorkExperience() {
             <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
             <div className="w3-container">
                       <h5 className="w3-opacity"><b>Web Developer / HiUp Solutions</b></h5>
-                      <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>July 2018 - <span className="w3-tag w3-teal w3-round">Current</span></h6>
+                      <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>July 2018 - June 2019</h6>
                       <p>Developing Web Application using ReactJS / NodeJS.</p>
                       <hr />
                 </div>
