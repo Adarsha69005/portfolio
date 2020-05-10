@@ -3,3 +3,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 .left-plane {
     margin-left:60px
 }
+
+.chip {
+  display: inline-block;
+  margin: 5px;
+  padding: 0 25px;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+  border-radius: 15px;
+  background-color: #f1f1f1;
+}
