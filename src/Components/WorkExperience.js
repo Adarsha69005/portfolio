@@ -12,7 +12,7 @@ function WorkExperience() {
                       <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>July 2018 - June 2019</h6>
                       <ul>
                       <li>Worked as a Fullstack developer.</li>
-                      <li>Responsible for the overall development of application.(CRM Admin,OnlineLearning Platform)</li>
+                      <li>Responsible for the overall development of application.<br />(Content Management System(CMS),OnlineLearning Platform)</li>
                       <li>Extensively used MERN Stack for end to end web application and API development.</li>
                       <li>Followed Agile Methodology of development (Jira).</li>
                       <li>Developing application and features using Behavior Driven Development (BDD).</li>
